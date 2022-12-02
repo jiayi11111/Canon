@@ -124,7 +124,7 @@ line-height: 12px;
 color: rgba(0, 0, 0, 0.2);
 }
 .white2:hover{
-    background:url('img/video2.gif');
+    background:url('video2.gif');
     background-size: 100% 100%;
   
   
@@ -184,7 +184,7 @@ border-radius: 38px;
 }
 
 .white3:hover{
-    background:url('img/video4.gif');
+    background:url('video4.gif');
     background-size: 100% 100%;
   
 }
@@ -268,7 +268,7 @@ border-radius: 33px;
 }
 
 .white4:hover{
-    background:url('img/video3.gif');
+    background:url('video3.gif');
     background-size: 100% 100%;
   
 }
